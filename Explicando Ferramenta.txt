@@ -1,0 +1,5 @@
+Explicando ferramenta
+
+Ferramenta criada por - Carlos Henrique Bispo dos Santos Junior
+
+Essa ferramenta foi criada com o intuito de automatizar as cores das etiquetas do Blitz-Scorecard Mariuá. Com isso, faz com que o tempo gastado para modificação da etiqueta seja reduzido 
